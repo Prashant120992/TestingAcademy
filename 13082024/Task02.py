@@ -1,3 +1,5 @@
+# Performing max, power, subtraction, multiplication, addition and division operation.
+
 num1 = int(input("Enter the num1 : "))
 num2 = int(input("Enter the num2 : "))
 print(f"The maximum number between {num1} and {num2} is", max(num1, num2))
