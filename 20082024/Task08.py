@@ -1,6 +1,6 @@
-angle1 = int(input("Enter the angle1\n"))
-angle2 = int(input("Enter the angle2\n"))
-angle3 = int(input("Enter the angle3\n"))
+angle1 = float(input("Enter the angle1\n"))
+angle2 = float(input("Enter the angle2\n"))
+angle3 = float(input("Enter the angle3\n"))
 
 if angle1 == angle2 and angle1 == angle3:
     print("The Triangle is equilateral")
