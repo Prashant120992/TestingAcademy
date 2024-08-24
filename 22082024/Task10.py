@@ -1,4 +1,4 @@
-number = int(input("Enter the number\n"))
+number = int(input("Enter the integer number\n"))
 fact = 1
 if number < 0:
     print("Negative numbers are not allowed")
